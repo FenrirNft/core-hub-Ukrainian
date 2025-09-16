@@ -1,3 +1,4 @@
 # core-hub-Ukrainian
 core-hub is the central module that manages the core components of the project. It serves as the backbone, connecting services, libraries, and tools into a unified ecosystem.
 <img width="960" height="540" alt="image" src="https://github.com/user-attachments/assets/94c81f9f-022b-4bcf-b8ee-bffdaf84eefd" />
+Web3 Genesis Cloud — це перша у світі децентралізована хмарна платформа для розробки інтелектуальних компонентних протоколів, яка суттєво знижує технічні бар’єри для розробників, що входять у сферу Web3, та сприяє легкому переходу застосунків із Web2 до Web3.
